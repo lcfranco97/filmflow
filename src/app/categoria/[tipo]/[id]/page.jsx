@@ -97,7 +97,7 @@ export default function CategoriaPage() {
 
 
             {/*CONTEUDO PRINCIPAL DA PAGINA */}
-             <motion.main className="relative z-10 p-6 max-w-6xl mx-auto">
+             <motion.main className="relative z-10 p-6 max-w-6xl mx-auto mt-14">
             <h1 className="text-3xl font-bold mb-6 text-white">
                 {tipo === 'movie' ? 'Filmes' : 'Séries'} da categoria {genreName && `"${genreName}"`}
             </h1>
