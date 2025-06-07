@@ -1,0 +1,1 @@
+//Endpoints e funções utilitárias da API
