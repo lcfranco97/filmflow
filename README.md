@@ -48,7 +48,7 @@ O objetivo do projeto é demonstrar minhas habilidades em **Next.js**, **React.j
 
 ### 1. Clone o repositório:
 
-```bash
+```shell
 git clone https://github.com/lcfranco97/filmflow.git
 ```
 
